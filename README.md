@@ -6,6 +6,8 @@ Code can be run with "python manage.py migrate" and then "python manage.py runse
 
 3) Code Coverage Report:
 
+![image](https://user-images.githubusercontent.com/79349767/115784008-2f078f80-a383-11eb-952e-98005a69e1f8.png)
+
 
 4) IMPORTANT: list who did what within the group. TAs should be able to validate in GitHub, otherwise team members who didn't contribute will receive a ZERO.
 Name
@@ -24,3 +26,4 @@ Name
 
 ### Order History
 ![image](https://user-images.githubusercontent.com/79349767/115783772-dfc15f00-a382-11eb-9ddf-b7e7dde699f4.png)
+
