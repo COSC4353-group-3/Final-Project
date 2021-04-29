@@ -4,7 +4,7 @@ Django was used in the creation of the portal and all relevant files are include
 
 Code can be run with "python manage.py migrate" and then "python manage.py runserver"
 
-3) Code Coverage Report:
+2) Code Coverage Report:
 
 ![image](https://user-images.githubusercontent.com/79349767/115784008-2f078f80-a383-11eb-952e-98005a69e1f8.png)
 
